@@ -94,6 +94,6 @@ We would like to express our gratitude to the open-source community for their co
 
 ## Contact
 
-If you have any questions or need further assistance, please contact the project team at [tda.ducanh@gmail.com](mailto:tda.ducanh@gmail.com).
+If you have any questions or need further assistance, please contact me [tda.ducanh@gmail.com](mailto:tda.ducanh@gmail.com).
 
 Thank you for your interest in the Eazy Shop app!

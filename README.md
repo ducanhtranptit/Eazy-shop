@@ -1,6 +1,6 @@
-## Eazy Shop App
+## Eazy Shop App (ReactJS + NodeJS Express + MySQL)
 
-Eazy Shop App is a modern and flexible solution designed for retail grocery businesses. With a user-friendly interface, diverse features, and high customization capabilities, the app assists grocery store owners in efficiently managing every aspect of their business.
+This repository contains a **Eazy Shop App** project developed using ReactJS, NodeJS Express and MySQL. The software is a modern and flexible solution designed for retail grocery businesses. With a user-friendly interface, diverse features, and high customization capabilities, the app assists grocery store owners in efficiently managing every aspect of their business.
 
 ## Key Features:
 
@@ -79,3 +79,21 @@ npm install
 ```bash
 npm start
 ```
+
+## Contributing
+
+We welcome contributions to enhance the Eazy Shop app. If you have any ideas, bug fixes, or feature requests, please submit them as issues or create a pull request. We appreciate your valuable input.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software as per the license terms.
+
+## Acknowledgements
+
+We would like to express our gratitude to the open-source community for their contributions and the developers of the libraries and tools used in this project.
+
+## Contact
+
+If you have any questions or need further assistance, please contact the project team at [tda.ducanh@gmail.com](mailto:tda.ducanh@gmail.com).
+
+Thank you for your interest in the Eazy Shop app!

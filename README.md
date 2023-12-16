@@ -29,7 +29,7 @@ This repository contains a **Eazy Shop App** project developed using ReactJS, No
 
 The application is accessible through web browsers, offering a seamless user experience across various devices.
 
-_With the Grocery Store Management Web App, you can streamline your store management process, provide better service to customers, and optimize your business performance._
+_With the Eazy Shop App, you can streamline your store management process, provide better service to customers, and optimize your business performance._
 
 ## Getting Started
 
